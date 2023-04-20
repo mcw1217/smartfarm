@@ -1,6 +1,6 @@
 # smartfarm
 
-앱인벤터로 핸드폰 앱 제작, 
+
 
 ## HardWare Image
 
